@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- M harfi: sol ve orta -->
+  <path d="M18 62 V24 L32 48 L46 24 V62" stroke="#3A4E7A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- R harfi: M'nin sağ bacağı ile birleşik -->
+  <path d="M46 62 V24 H62 Q70 24 70 38 Q70 48 62 48 H46 M62 48 L70 62" stroke="#3A4E7A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
